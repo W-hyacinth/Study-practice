@@ -1,0 +1,23 @@
+{
+  "name": "study-practice",
+  "version": "1.0.0",
+  "description": "I'm studying npm command",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W-hyacinth/Study-practice.git"
+  },
+  "keywords": [
+    "npm",
+    "command"
+  ],
+  "author": "Onebrush Choi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/W-hyacinth/Study-practice/issues"
+  },
+  "homepage": "https://github.com/W-hyacinth/Study-practice#readme"
+}
